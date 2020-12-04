@@ -1,0 +1,36 @@
+C:\Users\SHIGRI\source\repos\PNotes\PNotes\PNotes\bin\Debug\netstandard2.0\PNotes.deps.json
+C:\Users\SHIGRI\source\repos\PNotes\PNotes\PNotes\bin\Debug\netstandard2.0\PNotes.dll
+C:\Users\SHIGRI\source\repos\PNotes\PNotes\PNotes\bin\Debug\netstandard2.0\ref\PNotes.dll
+C:\Users\SHIGRI\source\repos\PNotes\PNotes\PNotes\bin\Debug\netstandard2.0\PNotes.pdb
+C:\Users\SHIGRI\source\repos\PNotes\PNotes\PNotes\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\SHIGRI\source\repos\PNotes\PNotes\PNotes\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\SHIGRI\source\repos\PNotes\PNotes\PNotes\obj\Debug\netstandard2.0\PNotes.AssemblyInfoInputs.cache
+C:\Users\SHIGRI\source\repos\PNotes\PNotes\PNotes\obj\Debug\netstandard2.0\PNotes.AssemblyInfo.cs
+C:\Users\SHIGRI\source\repos\PNotes\PNotes\PNotes\obj\Debug\netstandard2.0\PNotes.csproj.CoreCompileInputs.cache
+C:\Users\SHIGRI\source\repos\PNotes\PNotes\PNotes\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\SHIGRI\source\repos\PNotes\PNotes\PNotes\obj\Debug\netstandard2.0\PNotes.dll
+C:\Users\SHIGRI\source\repos\PNotes\PNotes\PNotes\obj\Debug\netstandard2.0\ref\PNotes.dll
+C:\Users\SHIGRI\source\repos\PNotes\PNotes\PNotes\obj\Debug\netstandard2.0\PNotes.pdb
+C:\Users\SHIGRI\source\repos\PNotes\PNotes\PNotes\obj\Debug\netstandard2.0\View\MakeComplaint.xaml.g.cs
+C:\Users\SHIGRI\source\repos\PNotes\PNotes\PNotes\obj\Debug\netstandard2.0\View\MainComplaintPage.xaml.g.cs
+C:\Users\SHIGRI\source\repos\PNotes\PNotes\PNotes\obj\Debug\netstandard2.0\PNotes.csprojAssemblyReference.cache
+C:\Users\SHIGRI\source\repos\PNotes\PNotes\PNotes\obj\Debug\netstandard2.0\View\LoginPage.xaml.g.cs
+C:\Users\SHIGRI\source\repos\PNotes\PNotes\PNotes\obj\Debug\netstandard2.0\View\CreateUserPage.xaml.g.cs
+C:\Users\Pooja Sethi\Desktop\PNotes\PNotes\PNotes\PNotes\bin\Debug\netstandard2.0\PNotes.deps.json
+C:\Users\Pooja Sethi\Desktop\PNotes\PNotes\PNotes\PNotes\bin\Debug\netstandard2.0\PNotes.dll
+C:\Users\Pooja Sethi\Desktop\PNotes\PNotes\PNotes\PNotes\bin\Debug\netstandard2.0\ref\PNotes.dll
+C:\Users\Pooja Sethi\Desktop\PNotes\PNotes\PNotes\PNotes\bin\Debug\netstandard2.0\PNotes.pdb
+C:\Users\Pooja Sethi\Desktop\PNotes\PNotes\PNotes\PNotes\obj\Debug\netstandard2.0\PNotes.csprojAssemblyReference.cache
+C:\Users\Pooja Sethi\Desktop\PNotes\PNotes\PNotes\PNotes\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Pooja Sethi\Desktop\PNotes\PNotes\PNotes\PNotes\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Pooja Sethi\Desktop\PNotes\PNotes\PNotes\PNotes\obj\Debug\netstandard2.0\View\CreateUserPage.xaml.g.cs
+C:\Users\Pooja Sethi\Desktop\PNotes\PNotes\PNotes\PNotes\obj\Debug\netstandard2.0\View\LoginPage.xaml.g.cs
+C:\Users\Pooja Sethi\Desktop\PNotes\PNotes\PNotes\PNotes\obj\Debug\netstandard2.0\View\MainComplaintPage.xaml.g.cs
+C:\Users\Pooja Sethi\Desktop\PNotes\PNotes\PNotes\PNotes\obj\Debug\netstandard2.0\View\MakeComplaint.xaml.g.cs
+C:\Users\Pooja Sethi\Desktop\PNotes\PNotes\PNotes\PNotes\obj\Debug\netstandard2.0\PNotes.AssemblyInfoInputs.cache
+C:\Users\Pooja Sethi\Desktop\PNotes\PNotes\PNotes\PNotes\obj\Debug\netstandard2.0\PNotes.AssemblyInfo.cs
+C:\Users\Pooja Sethi\Desktop\PNotes\PNotes\PNotes\PNotes\obj\Debug\netstandard2.0\PNotes.csproj.CoreCompileInputs.cache
+C:\Users\Pooja Sethi\Desktop\PNotes\PNotes\PNotes\PNotes\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Pooja Sethi\Desktop\PNotes\PNotes\PNotes\PNotes\obj\Debug\netstandard2.0\PNotes.dll
+C:\Users\Pooja Sethi\Desktop\PNotes\PNotes\PNotes\PNotes\obj\Debug\netstandard2.0\ref\PNotes.dll
+C:\Users\Pooja Sethi\Desktop\PNotes\PNotes\PNotes\PNotes\obj\Debug\netstandard2.0\PNotes.pdb
